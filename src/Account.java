@@ -1,11 +1,3 @@
-/*
-Class: CS 5000/01
-Term: Fall 2018
-Name:Benjamin McCall
-Instructor: Dr. Haddad
-Assignment: 11
-IDE: IntelliJ IDEA
-*/
 
 //Importing the Date and DecimalFormat methods.
 import java.util.Date;

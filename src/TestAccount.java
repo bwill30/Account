@@ -1,12 +1,4 @@
-/*
-Class: CS 5000/01
-Term: Fall 2018
-Name:Benjamin McCall
-Instructor: Dr. Haddad
-Assignment: 11
-IDE: IntelliJ IDEA
-*/
-
+//Importing the Scanner method.
 import java.util.Scanner;
 
 //This program will create accounts and display the account information.
