@@ -1,3 +1,5 @@
+// - Code by Ben McCall
+
 //Importing the Scanner method.
 import java.util.Scanner;
 

@@ -1,3 +1,4 @@
+// - Code by Ben McCall
 
 //Importing the Date and DecimalFormat methods.
 import java.util.Date;
